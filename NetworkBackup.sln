@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backup_GK", "Backup_GK\Backup_GK.csproj", "{426D6680-98E1-4438-B054-9AC4C348FCAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkBackup", "Backup_GK\NetworkBackup.csproj", "{426D6680-98E1-4438-B054-9AC4C348FCAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
