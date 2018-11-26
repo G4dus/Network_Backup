@@ -44,7 +44,7 @@
             // 
             // Choose_Folder
             // 
-            this.Choose_Folder.Location = new System.Drawing.Point(429, 42);
+            this.Choose_Folder.Location = new System.Drawing.Point(428, 42);
             this.Choose_Folder.Name = "Choose_Folder";
             this.Choose_Folder.Size = new System.Drawing.Size(25, 20);
             this.Choose_Folder.TabIndex = 0;
@@ -180,9 +180,10 @@
             this.Controls.Add(this.Path_Desplay);
             this.Controls.Add(this.Choose_Folder);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "HMI Arch";
+            this.Text = "HMI Archive via LAN";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
